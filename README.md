@@ -1,2 +1,2 @@
-# blog
-blog app built using MERN stack
+# Blog.
+Building my personal Blog app using MERN stack. This project is incomplete. I have done nothing significant yet. 
